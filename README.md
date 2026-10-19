@@ -29,9 +29,15 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do desenvolviment
 
 ```text
 pagina-404/
+├── img/
+│   ├── 44.svg
+│   └── monstrinho-azul.webp
+├── video/
+│   └── video-monstrinho-otimizado.mp4
 ├── index.html
+├── README.md
 ├── script.js
-├── xuxa.css
+└── style.css
 ```
 
 ## 🚀 Como executar
