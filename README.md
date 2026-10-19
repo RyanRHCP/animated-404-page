@@ -2,6 +2,8 @@
 
 Uma página de erro 404 personalizada, desenvolvida com HTML, CSS e JavaScript, com o objetivo de apresentar uma interface visual criativa e proporcionar uma experiência mais agradável ao usuário durante a navegação.
 
+🔗 **[Acesse a demonstração ao vivo do projeto](https://ryanrhcp.github.io/animated-404-page/)**
+
 ## 📌 Sobre o projeto
 
 A página 404 é exibida quando um usuário tenta acessar um endereço que não corresponde a uma página disponível.
