@@ -37,7 +37,7 @@ pagina-404/
 ├── index.html
 ├── README.md
 ├── script.js
-└── style.css
+└── xuxa.css
 ```
 
 ## 🚀 Como executar
