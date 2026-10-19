@@ -41,7 +41,7 @@ Não é necessário instalar dependências ou configurar um ambiente complexo.
 1. Clone o repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/RyanRHCP/animated-404-page.git
    ```
 
 2. Acesse a pasta do projeto:
